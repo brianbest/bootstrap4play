@@ -1,0 +1,9 @@
+/* Main css */
+
+html, body {
+    height:100%;
+}
+.jumbotron{
+	height: 92%;
+	margin-bottom: 0;
+}
